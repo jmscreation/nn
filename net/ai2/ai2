@@ -1,0 +1,14 @@
+Activation0=0
+Activation1=1
+Activation2=0
+Layer0=0
+Layer1=0
+Layer2=0
+Nlayers=3
+OutputLayer=0
+in_size0=19
+in_size1=250
+in_size2=250
+out_size0=250
+out_size1=250
+out_size2=1
